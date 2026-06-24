@@ -119,9 +119,15 @@ cloud01.infotechdesign.ws
 
 ![Advanced](10.png)
 
-* Change the "Incoming server (POP3) port to "995"
+* Change the "Incoming server (POP3) port to:
+```
+995
+```
 * Check the box "This server requires an encrypted connection (SSL/TLS)"
-* Change the "Outgoing server (SMTP) port to "465"
+* Change the "Outgoing server (SMTP) port to:
+```
+465
+```
 * Change "Use the following type of encrypted connection" to "SSL/TLS"
 * Make sure "Leave a copy of messages on the server" is checked (under "Delivery")
 * Make sure "Remove from server after" is set to anywhere from 14 to 30 days
