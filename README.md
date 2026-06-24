@@ -97,6 +97,7 @@ and sign in with your Microsoft account.
 ## Internet Email Settings
 
 * "Internet Email Settings" opens
+
 ![Internet Email Settings](8.png)
 
 * Click on the "Outgoing Server" tab
