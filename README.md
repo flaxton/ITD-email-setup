@@ -37,6 +37,8 @@ and sign in with your Microsoft account.
 
 ---
 
+# Mail Setup - Outlook
+
 ![Mail Setup - Outlook](3.png)
 
 * "Mail Setup - Outlook" opens
@@ -50,6 +52,15 @@ and sign in with your Microsoft account.
 ![Account Settings](4a.png)
 
 * Click the "New" button to add a new email account
+
+---
+
+## Add Account
+
+* "Add Account" opens
+
+![Add Account](5.png)
+
 * Fill in your Name (this will display in your emails)
 * Fill in your email address
 * Copy/paste your password twice in the two boxes
@@ -58,10 +69,21 @@ and sign in with your Microsoft account.
 
 ---
 
+## Choose Your Account Type
+
 * "Choose Your Account Type" opens
+
+![Choose Your Account Type](6.png)
+
 * Select "POP or IMAP" and click "Next"
 
 ---
+
+## POP and IMAP Account Settings
+
+* "POP and IMAP Account Settings" opens
+
+![POP and IMAP Account Settings](7.png)
 
 * Make sure "POP3" shows on Account Type
 * Set "Incoming mail server" and "Outgoing mail server (SMTP)" to: cloud01.infotechdesign.ws (copy and paste the server name)
@@ -72,11 +94,21 @@ and sign in with your Microsoft account.
 
 ---
 
+## Internet Email Settings
+
 * "Internet Email Settings" opens
+![Internet Email Settings](8.png)
+
 * Click on the "Outgoing Server" tab
+
+![Outgoing Server](9.png)
+
 * Check the box "My outgoing server (SMTP) requires authentication
 * Make sure "Use the same settings as my incoming mail server" is selected
 * Click on the "Advanced" tab
+
+![Advanced](10.png)
+
 * Change the "Incoming server (POP3) port to "995"
 * Check the box "This server requires an encrypted connection (SSL/TLS)"
 * Change the "Outgoing server (SMTP) port to "465"
@@ -89,14 +121,31 @@ and sign in with your Microsoft account.
 
 ---
 
+## Test Account Settings
+
 * "Test Account Settings" opens
+
+![Test Account Settings](11.png)
+
+---
+
+## Congratulations!
+
 * "Congratulations! All tests completed successfully. Click Close to continue" appears
+
+![Congratulations!](12.png)
+
 * Click "Close"
 (If this does not work, go back and review your settings, correcting them and trying again. If it still doesn't work, go back and to the Account Settings screen. Click on the Data Files tab, select the data file named for your email address and click "Remove". Then go to the Email tab, select the email account your just added and click "Remove". Then go back to "Account Settings" above in these instructions and try again)
 
 ---
 
+## You're all set!
+
 * "You're all set!" appears
+
+![You're all set!](13.png)
+
 * Uncheck "Set up Outlook Mobile on my phone"
 * Click "Finish"
 
