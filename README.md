@@ -164,6 +164,10 @@ and sign in with your Microsoft account.
 
 ---
 
+Questions? Problems? Contact Fred. Paid remote support is available to get you set up.
+
+---
+
 This document lives here:
 
 [https://flaxton.github.io/ITD-email-setup/](https://flaxton.github.io/ITD-email-setup/)
