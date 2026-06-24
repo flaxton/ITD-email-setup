@@ -101,6 +101,8 @@ and sign in with your Microsoft account.
 
 *Note - we recommend that you do not turn on "Try the new Outlook"*
 
+---
+
 This document lives here:
 
 [https://flaxton.github.io/ITD-email-setup/](https://flaxton.github.io/ITD-email-setup/)
