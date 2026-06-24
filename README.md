@@ -26,7 +26,9 @@ and sign in with your Microsoft account.
 (press and hold the Windows key on the keyboard and then press "r")
 * Type "control" and press Enter
 * Control Panel will open
+![Control Panel default](1.png)
 * Up near the top, in the toobar, click the ">" to the right of "Control Panel" and select "All Control Panel Items"
+![Control Panel expanded](2.png)
 * Click on "Mail (Microsoft Outlook)" - if you do not see this, Outlook is not installed, so go back and install it
 
 ---
