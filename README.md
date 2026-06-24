@@ -47,6 +47,8 @@ and sign in with your Microsoft account.
 
 ## Account Settings
 
+![Account Settings](4.png)
+
 * Click the "New" button to add a new email account
 * Fill in your Name (this will display in your emails)
 * Fill in your email address
