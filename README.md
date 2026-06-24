@@ -86,7 +86,12 @@ and sign in with your Microsoft account.
 ![POP and IMAP Account Settings](7.png)
 
 * Make sure "POP3" shows on Account Type
-* Set "Incoming mail server" and "Outgoing mail server (SMTP)" to: cloud01.infotechdesign.ws (copy and paste the server name)
+* Set "Incoming mail server" and "Outgoing mail server (SMTP)" to:
+
+```
+cloud01.infotechdesign.ws
+```
+(copy and paste the server name)
 * Copy/paste your email address into "User Name"
 * Copy/paste your password into "Password"
 * Make sure "Deliver new messages to:" is set to "New Outlook Data File"
