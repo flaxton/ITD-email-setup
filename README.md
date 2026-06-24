@@ -1,6 +1,6 @@
 # ITD-email-setup
 
-# New Outlook Email Setup - June 2026
+# Outlook Email Setup - Updated June 2026
 
 *Note - Outlook (paid) is part of Microsoft 365 or Office 2024, not the free Outlook that comes with Windows, known as New Outlook - these instructions will not work with the New Outlook (free, included with Windows)*
 
@@ -101,11 +101,15 @@ and sign in with your Microsoft account.
 
 * Click on the "Outgoing Server" tab
 
+### Outgoing Server
+
 ![Outgoing Server](9.png)
 
 * Check the box "My outgoing server (SMTP) requires authentication
 * Make sure "Use the same settings as my incoming mail server" is selected
 * Click on the "Advanced" tab
+
+### Advanced
 
 ![Advanced](10.png)
 
