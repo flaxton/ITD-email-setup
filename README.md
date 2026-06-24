@@ -37,6 +37,8 @@ and sign in with your Microsoft account.
 
 ---
 
+![Mail Setup - Outlook](3.png)
+
 * "Mail Setup - Outlook" opens
 * Click on the button "Email Accounts"
 * Any Email accounts already setup are shown, or none if it is a new installation of Outlook
